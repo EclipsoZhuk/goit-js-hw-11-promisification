@@ -1,0 +1,10 @@
+a {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    width: 150px;
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(5, 36, 82);
+    background-color: rgb(172, 172, 172);
+}
